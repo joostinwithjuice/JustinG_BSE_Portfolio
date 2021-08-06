@@ -12,6 +12,7 @@ I am making a MIDI controller which can sequence and play music
 
 # Second Milestone
 
+My Second Milestone was coding the ardino to take inputs from buttons and potentiometers into MIDI. I used this [code](https://github.com/silveirago/DIY-Midi-Controller) to take the button presses into outputs ready for the [serial to MIDI converter](https://projectgus.github.io/hairless-midiserial). After converting the serial output to MIDI I had to use a [virutal MIDI port](https://www.tobias-erichsen.de/software/loopmidi.html) to receive these outputs.
 
 
 # First  Milestone
