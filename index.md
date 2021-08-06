@@ -12,8 +12,9 @@ I am making a MIDI controller which can sequence and play music
 
 # Second Milestone
 
-My Second Milestone was coding the ardino to take inputs from buttons and potentiometers into MIDI. I used this [code](https://github.com/silveirago/DIY-Midi-Controller) to take the button presses into outputs ready for the [serial to MIDI converter](https://projectgus.github.io/hairless-midiserial). After converting the serial output to MIDI I had to use a [virutal MIDI port](https://www.tobias-erichsen.de/software/loopmidi.html) to receive these outputs.
+My Second Milestone was coding the ardino to take inputs from buttons and potentiometers into MIDI. I used this [code](https://github.com/silveirago/DIY-Midi-Controller) to take the button presses into outputs ready for the [serial to MIDI converter](https://projectgus.github.io/hairless-midiserial). After converting the serial output to MIDI I had to use a [virutal MIDI port](https://www.tobias-erichsen.de/software/loopmidi.html) to receive these outputs. Once I was sending MIDI controlls to the  virutal MIDI port I used FLStudios to take the MIDI controlls and produce music.
 
+Other things I accomplished during this week was chaning and using arcade buttons and learning to use a linear slide potentiometer. Both componets were diffrent from the original componets in the kit. The arcade button had 2 pins instead of 4. The linear slide potentiometer had 6 pins instead of 3. I figured out how to use the arcade buttton pretty quickly but I am still having trouble figuring out how to use the linear slide potentiometer
 
 # First  Milestone
 
