@@ -5,11 +5,10 @@ I am making a MIDI controller which can sequence and play music
 |:--:|:--:|:--:|:--:|
 | Justin Gan |Cupertino High School | Electrical Engineering | Rising Junior 
 
-![Headstone Image]
 ![image](https://user-images.githubusercontent.com/67182775/129239085-1b364682-b25d-4846-b19c-015df21f7237.png)
 
 
-[![Final Milestone]
+
 # Final Milestone
 
 My Final Milestone was cutting out the holes and slits to fit all the components. This step was quite challenging as I didnt  have a large enough drill bit to make the hole required to hold the button so I had to do a lot of filing to make the hole large enough. After cutting and filing all the holes I clicked in the buttons and hot glued the rotatry and slide potentiometers. 
