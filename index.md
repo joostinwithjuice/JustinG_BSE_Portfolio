@@ -6,6 +6,7 @@ I am making a MIDI controller which can sequence and play music
 | Justin Gan |Cupertino High School | Electrical Engineering | Rising Junior 
 
 ![Headstone Image]
+![image](https://user-images.githubusercontent.com/67182775/129239085-1b364682-b25d-4846-b19c-015df21f7237.png)
 
 
 [![Final Milestone]
@@ -16,7 +17,11 @@ My Final Milestone was cutting out the holes and slits to fit all the components
 The Next step was to wire all the components to the arduino. I had to do alot of soldering to connect every wire. This took me a while to I enjoyed soldering so I didnt mind it. After soldering all the wires to the components I connected them to the arduino which I also drilled and filed out a port to connect the ardino to my computer.
 
 I had troubles cutting out the layout of the MIDI controller as I had to do lots of filing  and it was not the most fun 
+
+![image](https://user-images.githubusercontent.com/67182775/129239168-342b0a07-e85d-4590-9ff2-20c60d248648.png)
+
 # Second Milestone
+
 
 My Second Milestone was coding the ardino to take inputs from buttons and potentiometers into MIDI. I used this [code](https://github.com/silveirago/DIY-Midi-Controller) to take the button presses into outputs ready for the [serial to MIDI converter](https://projectgus.github.io/hairless-midiserial). After converting the serial output to MIDI I had to use a [virutal MIDI port](https://www.tobias-erichsen.de/software/loopmidi.html) to receive these outputs. Once I was sending MIDI controlls to the  virutal MIDI port I used FLStudios to take the MIDI controlls and produce music.
 
