@@ -8,6 +8,11 @@ I am making a MIDI controller which can sequence and play music
 ![image](https://user-images.githubusercontent.com/67182775/129239085-1b364682-b25d-4846-b19c-015df21f7237.png)
 
 
+# Demo Night
+
+[![Demo Night](https://res.cloudinary.com/marcomontalbano/image/upload/v1628873321/video_to_markdown/images/youtube--gMWDqDbFj9A-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=gMWDqDbFj9A "Demo Night")
+
+Reflection: Overall my time a Bluestamps has been very enjoyable. Through this course I have learned many lessons such as double and triple checking my mesurements when planning out a layout. My big takeaways from this session has been 
 
 # Final Milestone
 
