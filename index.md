@@ -12,7 +12,7 @@ I am making a MIDI controller which can sequence and play music
 
 [![Demo Night](https://res.cloudinary.com/marcomontalbano/image/upload/v1628873321/video_to_markdown/images/youtube--gMWDqDbFj9A-c05b58ac6eb4c4700831b2b3070cd403.jpg)](https://www.youtube.com/watch?v=gMWDqDbFj9A "Demo Night")
 
-Reflection: Overall my time a Bluestamps has been very enjoyable. Through this course I have learned many lessons such as double and triple checking my mesurements when planning out a layout. My big takeaways from this session has been 
+Reflection: Overall my time a Bluestamps has been very enjoyable. Through this course I have learned many lessons such as double and triple checking my mesurements when planning out a layout. My big takeaways from this session has been learning how to code in ardino and learning to solder. I think Bluestamps helped me stay on track and finish my porject that I probably would have never started without Bluestamps.
 
 # Final Milestone
 
